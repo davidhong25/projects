@@ -1,2 +1,2 @@
-# testprojects
+# projects
 First repo 
